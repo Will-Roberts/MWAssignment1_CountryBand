@@ -1,0 +1,77 @@
+body {
+    background: #f4c242;
+}
+
+header {
+    background-color: #931a2a;background-color: #931a2a;
+    background-image: url("http://simpson.edu/wp-content/themes/simpson/assets/img/header-seal-desktop.png");
+    background-repeat: no-repeat;
+    color: #f9e5af;
+    font-size: 60px;
+    font-family: Georgia, Palatino, serif;
+    height: 75px;
+    padding: 10px;
+}
+
+section {
+    background-color: #FFFFFF;
+    max-width: 800px;
+    padding: 5px;
+}
+
+article {
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 15px;
+    padding: 5px;
+    margin: 5px;
+}
+
+p {
+    font-family: arial, sans-serif;
+}
+
+.prerequisite {
+    display: inline;
+    font-style: italic; 
+}
+
+.credits {
+    display: inline;
+    color: #000080; 
+}
+
+.embedded skill {
+    display: inline;
+    color: #995c00;
+}
+
+.offered {
+    display: inline; 
+    color: #800000;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    font-family: arial, sans-serif;
+    background-color: #fff;
+}
+
+nav li {
+    float: left;
+}
+
+nav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding-left: 14px;
+    padding-right: 16px;
+    text-decoration: none;
+} 
+
+nav li a:hover {
+    background-color: #111;
+}
